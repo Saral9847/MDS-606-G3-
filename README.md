@@ -11,4 +11,13 @@ Student1: Saral Shrestha (SPI230445)
 Student2: Ajay Adhikari (SPI230570)
 Student3: Prakash Marasini Thapa (SPI230301)
 
-Project Details 
+Project Details:
+Project Plan
+Literature review
+Survey Design
+Data Analysis
+Research Ethics Apporval
+Research proposal 
+Project Reflection
+
+
