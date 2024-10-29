@@ -2,7 +2,7 @@ Overview of the Project
 Research Topic: AI in Education: Investigate the impact of Generative AI in Education
 
 Project Description
-Research Question:
+Research Question: To what extent would generative AI be of impact on student’s engagement and motivation in customized learning environments?
 Hypothesis: 
 
 Details of Group members
