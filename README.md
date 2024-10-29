@@ -1,5 +1,5 @@
 Overview of the Project
-Research Topic:
+Research Topic: AI in Education: Investigate the impact of Generative AI in Education
 
 Project Description
 Research Question:
