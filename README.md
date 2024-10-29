@@ -3,7 +3,7 @@ Research Topic: AI in Education: Investigate the impact of Generative AI in Educ
 
 Project Description
 Research Question: To what extent would generative AI be of impact on student’s engagement and motivation in customized learning environments?
-Hypothesis: 
+Hypothesis: use of generative AI in education benefits student performance and engagement.
 
 Details of Group members
 
