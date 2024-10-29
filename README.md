@@ -9,6 +9,6 @@ Details of Group members
 
 Student1: Saral Shrestha (SPI230445)
 Student2: Ajay Adhikari (SPI230570)
-Student1: Prakash Marasini Thapa (SPI230301)
+Student3: Prakash Marasini Thapa (SPI230301)
 
 Project Details 
