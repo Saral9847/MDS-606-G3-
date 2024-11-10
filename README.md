@@ -10,7 +10,9 @@ Research Question: To what extent would generative AI impact student engagement 
 Hypothesis:
 
 Hypothesis 1: Generative AI tools facilitate students' learning by allowing immediate, differentiated feedback that students need to grasp complex concepts and supporting self-directed learning
-Hypothesis 2: Using generative AI as an additional learning aid increases student engagement by promoting learning through more interactive, adaptive, and accessible means.  
+
+Hypothesis 2: Using generative AI as an additional learning aid increases student engagement by promoting learning through more interactive, adaptive, and accessible means. 
+
 Hypothesis 3: Teachers view generative AI as an excellent way to enhance educational support, but they express concern about potentially becoming over-dependent on it, changes in trends of critical thinking skills, and issues of academic honesty. 
 
 
