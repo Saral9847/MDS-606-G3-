@@ -7,7 +7,8 @@ Project Description
 Research Question: To what extent would generative AI be of impact on student’s engagement and motivation in customized learning environments?
 
 
-Hypothesis: 
+Hypothesis:
+
 Hypothesis 1: Generative AI tools facilitate students' learning by allowing immediate, differentiated feedback that students need to grasp complex concepts and supporting self-directed learning
 
 
